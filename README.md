@@ -1,4 +1,4 @@
 # black-book-demo
-This ismy first Git repository
+This is my first Git repository
 Author-samiya shaukat
 <b>
